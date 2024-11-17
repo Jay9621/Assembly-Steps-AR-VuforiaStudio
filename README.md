@@ -15,3 +15,5 @@ This project demonstrates an Augmented Reality (AR) experience that guides users
 - **playSequence()**: Tracks the current step, updates labels, and controls the visibility of 3D images, labels, and other elements dynamically.
 
 
+## Note: 
+This project also includes simple code(steps.js) that displays assembly step descriptions directly linked to metadata from steps defined in Creo Illustrate. These steps are seamlessly integrated and shown in Vuforia Studio for an interactive AR experience.
