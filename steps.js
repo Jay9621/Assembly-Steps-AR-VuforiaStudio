@@ -6,3 +6,5 @@ $scope.$on('newStep', function(evt, arg) {
   var instructText = labelText.substr(labelText);
   $scope.setWidgetProp(labelId, "text", instructText);
 });
+
+// add a label widget change name to label-2.
