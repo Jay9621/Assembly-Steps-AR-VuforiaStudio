@@ -1,6 +1,4 @@
 
-
-```javascript
 // Assembly Steps Code for AR Experience
 // Dependencies: $scope, $element, $attrs, $injector, $sce, $timeout, $http, $ionicPopup, and $ionicPopover
 
